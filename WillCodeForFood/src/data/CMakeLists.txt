@@ -1,0 +1,1 @@
+target_sources(mono-slam PRIVATE tum_dataset.h tum_dataset.cpp)
